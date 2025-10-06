@@ -1,0 +1,7 @@
+{
+  "name": "Ben Mini App Quickstart",
+  "description": "A simple Farcaster mini app example",
+  "icon": "https://ben-mini-app-quickstart.vercel.app/blue-hero.png",
+  "url": "https://ben-mini-app-quickstart.vercel.app",
+  "schema": "1.0"
+}
